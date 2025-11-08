@@ -13,7 +13,7 @@ func _ready() -> void:
 func spawn_mob():
 	#const MOB = preload("res://mob.tscn")
 	# Create new mob node
-	var new_mob = preload("res://mob.tscn").instantiate()
+	var new_mob = preload("res://game_objects/enemy/mob.tscn").instantiate()
 	# Get random location for new mob
 	%PathFollow2D.progress_ratio = randf()
 	new_mob.global_position = %PathFollow2D.global_position

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dftkbqwsfd68r"
-path="res://.godot/imported/projectile.png-e03ae856d530df914009475206433400.ctex"
+uid="uid://qmqpm6asge1i"
+path="res://.godot/imported/square_upper_leg.png-adca000795ab15d27c69cb792b05e32c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://pistol/projectile.png"
-dest_files=["res://.godot/imported/projectile.png-e03ae856d530df914009475206433400.ctex"]
+source_file="res://game_objects/player/happy_boo/square_upper_leg.png"
+dest_files=["res://.godot/imported/square_upper_leg.png-adca000795ab15d27c69cb792b05e32c.ctex"]
 
 [params]
 

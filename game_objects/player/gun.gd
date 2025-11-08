@@ -12,7 +12,7 @@ func _physics_process(delta: float) -> void:
 
 
 func shoot():
-		const BULLET = preload("res://bullet.tscn")
+		const BULLET = preload("res://game_objects/player/bullet.tscn")
 		# Create new instance of bullet scene
 		var new_bullet = BULLET.instantiate()
 		# Make bullet match position and rotation of shooting point

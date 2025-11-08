@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cai2ijnbypqtr"
-path="res://.godot/imported/slime_hurt_eyes.png-711256b4a2a47dcea723d274f00b4628.ctex"
+uid="uid://b2ent6mf1y7w7"
+path="res://.godot/imported/square_ref.png-92868cc372279ae88c4e56c3fee2c10d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://characters/slime/slime_hurt_eyes.png"
-dest_files=["res://.godot/imported/slime_hurt_eyes.png-711256b4a2a47dcea723d274f00b4628.ctex"]
+source_file="res://game_objects/player/happy_boo/square_ref.png"
+dest_files=["res://.godot/imported/square_ref.png-92868cc372279ae88c4e56c3fee2c10d.ctex"]
 
 [params]
 

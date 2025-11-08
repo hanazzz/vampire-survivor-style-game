@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qmqpm6asge1i"
-path="res://.godot/imported/square_upper_leg.png-e1f848aab7dd8805f40f881c2160a53d.ctex"
+uid="uid://brgpjilf7s2ul"
+path="res://.godot/imported/muzzle_flash.png-bc693229c294de3006278568a53b3ca7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://characters/happy_boo/square_upper_leg.png"
-dest_files=["res://.godot/imported/square_upper_leg.png-e1f848aab7dd8805f40f881c2160a53d.ctex"]
+source_file="res://game_objects/player/pistol/muzzle_flash/muzzle_flash.png"
+dest_files=["res://.godot/imported/muzzle_flash.png-bc693229c294de3006278568a53b3ca7.ctex"]
 
 [params]
 

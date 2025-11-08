@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7rhtttevhxtj"
-path="res://.godot/imported/ground_shadow.png-b9267d10ca04362d5b540659e4ab0dbd.ctex"
+uid="uid://dhapxq8y8ow57"
+path="res://.godot/imported/square_lower_leg.png-fc7f75466187d66e3a5bf9d55eb0d985.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://characters/ground_shadow.png"
-dest_files=["res://.godot/imported/ground_shadow.png-b9267d10ca04362d5b540659e4ab0dbd.ctex"]
+source_file="res://game_objects/player/happy_boo/square_lower_leg.png"
+dest_files=["res://.godot/imported/square_lower_leg.png-fc7f75466187d66e3a5bf9d55eb0d985.ctex"]
 
 [params]
 
